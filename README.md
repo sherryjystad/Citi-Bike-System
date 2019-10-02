@@ -9,5 +9,5 @@ Summary statistics and visualizations created using Python, Pandas, and Tableau.
 # Demographics:
 ![Gender-Riders.png](Gender-Riders.png)
 
-# Most Used Bike Stations:
+# Bike Stations:
 ![Popular-Bottom-Stations.png](Popular-Bottom-Stations.png)
